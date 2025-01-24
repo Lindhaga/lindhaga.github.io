@@ -38,6 +38,8 @@ De fem parkeringsplatserna (taxificka 1-2 på Axgatan, 3-5 på Rågkornsgatan, s
 
 Strömförsörjningen/-förbrukningen till resp. garage betalas solidariskt av medlemmarna varför det inte är tillåtet att kontinuerligt ta ström från eluttaget. Elektriska motorvärmare får ej heller vara inkopplad i dom gemensamma eluttagen. Varje länga delar på 2A för dom gemensamma eluttagen. Om flera använder motorvärmare går säkringen. Kupévärmare får inte användas i Samfällighetens garage och elbilar får enbart laddas via installerad elbilsladdare.
 
+![översiktskarta](https://1drv.ms/i/c/3a4439045a982ff0/IQQgC5XuC5VjQ5AgCZH6o-3dAWu-Q3lB_wJN3MQyx9ccTkU)
+
 #### Laddnig av elbil
 Det finns möjlighet att ladda sin laddbara bil i garagen. Notera att du i så fall behöver en laddbox. Om du försöker ladda bilen utan laddbox kommer sannolikt en säkring gå och strömmen bryts till hela garagelängan. Om du har en automatisk portöppnare så kommer den inte fungera, det samma gäller dina grannar i samma länga.
 
