@@ -4,6 +4,10 @@ Lindhaga Samfällighetsförening förvaltar de gemensamma anläggningarna i grup
 ## Nyinflyttad?
 Om du är nyinflyttad så läs gärna igenom denna sida och kontakta styrelsen, [lindhaga.samfallighetsforening@hotmail.se](mailto:lindhaga.samfallighetsforening@hotmail.se).
 
+## Senaste nytt
+
+2025 års ordinarie föreningsstämma inträffar 24:e februari. Vi ses på samma plats som vi varit de senaste åren: Fässbergs församlingshem.
+
 ## Om föreningen
 De 174 fastigheterna i vårt område ingår i en samfällighet och har en andel i den gemensamma egendomen. Ägarna av fastigheterna är medlemmar i Lindhaga Samfällighetsförening och medlemskapet är därför obligatoriskt. Egendomen (gemensamhetsanläggningarna) består av 
 - garagen
@@ -20,7 +24,7 @@ Ledningsnäten (vatten och avlopp) är sedan lång tid tillbaka så gamla att de
 
 Anläggningsbeslutet i sin helhet finns hos [Lantmäteriet](https://www.lantmateriet.se/).
 
-Föreningens verksamhet styrs även av [tillämpliga lagar](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19731150-om-forvaltning-av-samfalligheter_sfs-1973-1150/) och [föreningens stadgar](https://lindhaga1974.se/wp-content/uploads/2024/05/stadgar-rev-4.pdf).
+Föreningens verksamhet styrs även av [tillämpliga lagar](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19731150-om-forvaltning-av-samfalligheter_sfs-1973-1150/) och [föreningens stadgar](https://1drv.ms/b/c/3a4439045a982ff0/EVBkXV_4D9BIu25a7oHuS_gB4vKpgc7uYg7PU0nrjSOfdg?e=6A2o3s).
 
 ### Vad sysslar föreningen inte med?
 Föreningen verksamhet sträcker sig inte längre än det som beskrivits ovan. Om du har frågor eller åsikter om eldning eller grannens katter så kan du inte förvänta dig att styrelsen agerar. Detta handlar inte om lättja eller åsikter, styrelsen har helt enkelt inte mandat att agera i dessa frågor.
