@@ -36,7 +36,7 @@ Varje fastighetsägare disponerar ett av samfällighetens garage. Det är allts�
 
 De fem parkeringsplatserna (taxificka 1-2 på Axgatan, 3-5 på Rågkornsgatan, se karta nedan) ingår i samfällighetens egendom.
 
-Strömförsörjningen/-förbrukningen till resp. garage betalas solidariskt av medlemmarna varför det inte är tillåtet att kontinuerligt ta ström från eluttaget. Elektriska motorvärmare får ej heller vara inkopplad i dom gemensamma eluttagen. Varje länga delar på 2A för dom gemensamma eluttagen. Om flera använder motorvärmare går säkringen. Kupévärmare får inte användas i Samfällighetens garage och elbilar får enbart laddas via installerad elbils laddare.
+Strömförsörjningen/-förbrukningen till resp. garage betalas solidariskt av medlemmarna varför det inte är tillåtet att kontinuerligt ta ström från eluttaget. Elektriska motorvärmare får ej heller vara inkopplad i dom gemensamma eluttagen. Varje länga delar på 2A för dom gemensamma eluttagen. Om flera använder motorvärmare går säkringen. Kupévärmare får inte användas i Samfällighetens garage och elbilar får enbart laddas via installerad elbilsladdare.
 
 #### Laddnig av elbil
 Det finns möjlighet att ladda sin laddbara bil i garagen. Notera att du i så fall behöver en laddbox. Om du försöker ladda bilen utan laddbox kommer sannolikt en säkring gå och strömmen bryts till hela garagelängan. Om du har en automatisk portöppnare så kommer den inte fungera, det samma gäller dina grannar i samma länga.
@@ -55,11 +55,13 @@ Tung trafik får inte framföras inom Lindhaga samfällighetsföreningens områd
 
 Detta för att skydda våra vatten- och avloppsledningar som är 50 år. Enligt beslut taget på föreningsstämman 22 feb 2017.
 
+![begränsad bruttovikt](https://1drv.ms/i/c/3a4439045a982ff0/IQQZKX-OFb7cQaiHzz-WRzQdAVgI14XGR3VUHPY3qgll18A)
+
 #### Parkering
 
 Husvagnar/husbilar får ställas upp på parkeringsplatsen kortare perioder från 1 april till 30 september.
 
-Enligt beslut på föreningsstämman februari 2019 så är det from oktober 2019 betalda parkeringsplatser för besökare. Varje fastighet har 2 parkeringstillstånd att nyttja. Avgift för överträdelse tillfaller Mölndals stads Parkerings AB. Alla frågor kring bötesföreläggande hanteras av företaget i fråga. 
+Enligt beslut på föreningsstämman februari 2019 så är det from oktober 2019 betalda parkeringsplatser för besökare. Varje fastighet har 2 parkeringstillstånd att nyttja. Parkeringstillstånden administreras via app (Mölndal P) och för att registreras på ditt konto. Kontakta styrelsen för att koppla parkeringstillstånd till ditt konto. Avgift för överträdelse tillfaller Mölndals stads Parkerings AB. Alla frågor kring bötesföreläggande hanteras av företaget i fråga. 
 
 -   Varje fastighet erhåller 2 st elektroniska parkeringstillstånd som nyttjas till egna fordon. Med garaget har således varje fastighet 3 p-platser var. Fler kort kan ej erhållas.
 -   Styrelsen äger rätt att när som helst återkalla/spärra parkeringstillstånd.
@@ -72,15 +74,15 @@ Enligt beslut på föreningsstämman februari 2019 så är det from oktober 2019
 
 ### Internetanslutning
 
-Föreningen har ett fibernät med internet, tv och telefoni sedan juni 2016. Nätet med tillhörande mediaomvandlare som finns i varje fastighet ägs av svenska stadsnät. Avtalet löper över 10 år. Svenska stadsnät har ansvaret för nätet fram till mediaomvandlaren i varje fastighet.  Vid driftstörningar så tag gärna kontakt med styrelsen för att kunna vidta rätt åtgärder. Åverkan, skadegörelse orsakad av fastighetsägare på svenska stadsnät kablage, mediaomvandlare kan leda till att man kan bli ersättningsskyldig. Vid planer på renovering av fastighet som kan påverka svenska stadsnäts egendom så måste samfällighetens styrelse kontaktas i god tid. Vi ber er även göra en visuell besiktning årligen och kontrollera rör, infästningar och kablage på plåtfasader. Felaktigheter rapporteras skyndsamt till styrelsen.
+Föreningen har ett fibernät med internet, tv och telefoni sedan juni 2016. Nätet med tillhörande mediaomvandlare som finns i varje fastighet ägs av Svenska Stadsnät. Avtalet löper över 10 år. Svenska Stadsnät har ansvaret för nätet fram till mediaomvandlaren i varje fastighet.  Vid driftstörningar så tag gärna kontakt med styrelsen för att kunna vidta rätt åtgärder. Åverkan, skadegörelse orsakad av fastighetsägare på Svenska Stadsnäts kablage, mediaomvandlare kan leda till att man kan bli ersättningsskyldig. Vid planer på renovering av fastighet som kan påverka Svenska Stadsnäts egendom så måste samfällighetens styrelse kontaktas i god tid. Vi ber er även göra en visuell besiktning årligen och kontrollera rör, infästningar och kablage på plåtfasader. Felaktigheter rapporteras skyndsamt till styrelsen.
 
-Internet och ip-telefoni kan fastighetsägaren själv välja mellan de operatörer som Svenska stadsnät tillhandahåller. Enklast att välja operatör är att koppla sin dator direkt till mediaomvandlaren så ansluts man automatiskt till Svenska Stadsnät sida. Det går även bra att ringa deras kundtjänst på nummer: 020-100095 Internetavtal tecknas och bekostas av den enskilde fastighetsägaren.
+Internet och ip-telefoni kan fastighetsägaren själv välja mellan de operatörer som Svenska Stadsnät tillhandahåller. Enklast att välja operatör är att koppla sin dator direkt till mediaomvandlaren så ansluts man automatiskt till Svenska Stadsnät sida. Det går även bra att ringa deras kundtjänst på nummer: 020-100095 Internetavtal tecknas och bekostas av den enskilde fastighetsägaren.
 
 Vid problem med Internet så ska fastighetsägaren kontakta sin internetleverantör direkt och inte styrelsen eller Svenska stadsnät.
 
 ### Fiber TV
 
-From juli 2016 så tillhandahåller Sappa vårt tv-nät via Svenska  stadsnät fibernät och mediaomvandlare. Nytt 5- års avtal tecknat 2024 som ingår i årsavgiften för fastighetsägarna. Information om kanalutbudet hittas på www.sappa.se.  Extra kanalpaket, kanaler tecknas och bekostas av fastighetsägaren. Sappas kundtjänst nås på 077-4444744
+From juli 2016 så tillhandahåller Sappa vårt tv-nät via Svenska Stadsnäts fibernät och mediaomvandlare. Nytt 5- års avtal tecknat 2024 som ingår i årsavgiften för fastighetsägarna. Information om kanalutbudet hittas på www.sappa.se.  Extra kanalpaket, kanaler tecknas och bekostas av fastighetsägaren. Sappas kundtjänst nås på 077-4444744
 
 Vid problem med TV så ska fastighetsägaren kontakta Sappa direkt och inte styrelsen eller svenska stadsnät.
 
@@ -158,12 +160,12 @@ Diverse ritningar finns tillgängliga på [OneDrive](https://1drv.ms/f/c/3a44390
 ## Styrelsen
 Sedan stämman i februari 2024 består styrelsen av:
 - Mattias Hermansson, ordförande, Rågkornsgatan 92, 0709864157
-- Martin Eklund, vice ordförande, Axgatan 77, ...
-- Lena...
-
-## Vad gör jag om?
-TV:n inte fungerar? ==Fyll på med information här.==
-==Skall denna sektion slås ihop med [details.md](details.md)?==
+- Martin Eklund, vice ordförande, Axgatan 77
+- Lena Roseke, kassör, Axgatan 17
+- Bruno Andersson, Axgatan 91
+- Pia Andersson, Rågkornsgatan 136
+- Johan Asterholm, Rågkornsgatan 28
+- Gunnar Kristensen, Rågkornsgatan 134
 
 ## Kontakt
 - [lindhaga.samfallighetsforening@hotmail.se](mailto:lindhaga.samfallighetsforening@hotmail.se)
