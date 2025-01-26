@@ -108,6 +108,8 @@ För att hålla nere vattenkostnaderna har föreningen åtagit sig att administr
 
 ### Städning och underhåll
 
+Läs mer [arbetsgruppernas respektive arbetsuppgifter](staddagar.md).
+
 Vi har gemensamma städdagar vår och höst. Vid dessa tillfällen städar vi området och sköter övrigt underhåll. Föreningen har ingen fastighetsskötare och det är därför var och ens ansvar att hålla området välskött. Kontakta gruppchef eller styrelse om något behöver åtgärdas och ge gärna konkreta förslag till förbättringar.
 
 Vi vill varmt rekommendera att medlemmarna vid behov och på eget initiativ håller ordning på rabatter och gångstråk även mellan de gemensamma städdagarna. Varje fastighetsägare skall hålla efter sina växter på den egna tomten, så att buskar och träd inte sväller över och därmed skymmer sikt och hindrar framkomlighet på gångarna eller skärmar av belysningen på gångvägar.
