@@ -78,7 +78,7 @@ Enligt beslut på föreningsstämman februari 2019 så är det from oktober 2019
 -   Husbilar får enligt tidigare regler parkeras under kortare perioder 1 april-30 sep. Antingen nyttjas ett parkeringstillstånd eller avgift erläggs enligt gällande taxa. Övrig tid på året kommer husbilar i de fall som nyttjar 2 parkeringsrutor bötfällas oavsett om parkeringstillstånd nyttjas. Kopplat släp till bil med parkeringstillstånd får stå uppställt kortare tid. Separat släp skall erlägga avgift eller ställas i garaget.
 -   Styrelsen kan närhelst begära att Mölndals stad Parkerings AB bötfäller specifika fordon om inte föreningens regler följs.
 
-### Internetanslutning
+## Internetanslutning
 
 Föreningen har ett fibernät med internet, tv och telefoni sedan juni 2016. Nätet med tillhörande mediaomvandlare som finns i varje fastighet ägs av Svenska Stadsnät. Avtalet löper över 10 år. Svenska Stadsnät har ansvaret för nätet fram till mediaomvandlaren i varje fastighet.  Vid driftstörningar så tag gärna kontakt med styrelsen för att kunna vidta rätt åtgärder. Åverkan, skadegörelse orsakad av fastighetsägare på Svenska Stadsnäts kablage, mediaomvandlare kan leda till att man kan bli ersättningsskyldig. Vid planer på renovering av fastighet som kan påverka Svenska Stadsnäts egendom så måste samfällighetens styrelse kontaktas i god tid. Vi ber er även göra en visuell besiktning årligen och kontrollera rör, infästningar och kablage på plåtfasader. Felaktigheter rapporteras skyndsamt till styrelsen.
 
@@ -94,7 +94,7 @@ Vid problem med TV så ska fastighetsägaren kontakta Sappa direkt och inte styr
 
 ### Medlemsavgift och vattenkostnader
 
-Årsavgiften fastställs årligen av årsmötet och framgår av senaste årsmötesprotokollet. Årsavgiften skall täcka de löpande utgifterna, men eftersom vår gemensamma egendom åldras successivt måste vi också fondera pengar för att kunna klara de kostnader som nödvändigtvis kommer då större reparationer måste göras. Områdets vatten- och ledningsnät är byggt i början av 1970-talet och periodiska reparationer kommer därför successivt bli nödvändiga inom en tidsperiod som är svår att överblicka. För dessa reparationer skall finnas en underhålls- och förnyelsefond.
+Årsavgiften fastställs årligen av årsmötet och framgår av senaste årsmötesprotokollet. Årsavgiften skall täcka de löpande utgifterna, men eftersom vår gemensamma egendom åldras successivt måste vi också fondera pengar för att kunna klara de kostnader som nödvändigtvis kommer då större reparationer måste göras. Områdets vatten- och ledningsnät är byggt i början av 1970-talet och periodiska reparationer kommer därför successivt bli nödvändiga inom en tidsperiod som är svår att överblicka. För dessa reparationer skall finnas en underhålls- och förnyelsefond. Föreningen behöver också ta hänsyn till [Lag om förvaltning av samfälligheter](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19731150-om-forvaltning-av-samfalligheter_sfs-1973-1150/).
 
 Årsmötet har tidigare fattat beslut om att fonden skall ökas med minst 50.000:- kronor per år och att en underhålls och förnyelseplan skulle tas fram. Planen uppdateras löpande och avgör om föreningen behöver bygga upp fonden i snabbare takt.
 
@@ -178,3 +178,4 @@ Sedan stämman i februari 2024 består styrelsen av:
 ## Kontakt
 - [lindhaga.samfallighetsforening@hotmail.se](mailto:lindhaga.samfallighetsforening@hotmail.se)
 - Organisationsnummer: 716408-4480
+- Bankgiro: 445-2959
