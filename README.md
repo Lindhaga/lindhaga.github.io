@@ -168,11 +168,11 @@ Diverse ritningar finns tillgängliga på [OneDrive](https://1drv.ms/f/c/3a44390
 ## Styrelsen
 Sedan stämman i februari 2024 består styrelsen av:
 - Mattias Hermansson, ordförande, Rågkornsgatan 92, 0709864157
-- Martin Eklund, vice ordförande, Axgatan 77
+- Johan Asterholm, vice ordförande, Rågkornsgatan 28
 - Lena Roseke, kassör, Axgatan 17
-- Bruno Andersson, Axgatan 91
 - Pia Andersson, Rågkornsgatan 136
-- Johan Asterholm, Rågkornsgatan 28
+- Mariana Ferri, Rågkornsgatan 96
+- Meri Habo, Axgatan 103
 - Gunnar Kristensen, Rågkornsgatan 134
 
 ## Kontakt
