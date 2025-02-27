@@ -166,7 +166,7 @@ Du kan lämna förslag till förbättringar och förändringar av samfällighete
 Diverse ritningar finns tillgängliga på [OneDrive](https://1drv.ms/f/c/3a4439045a982ff0/EvAvmFoEOUQggDoBBAAAAAABGpi8kfDSArP0-WVx2w3E8Q?e=H1nHVe).
 
 ## Styrelsen
-Sedan stämman i februari 2024 består styrelsen av:
+Sedan stämman i februari 2025 består styrelsen av:
 - Mattias Hermansson, ordförande, Rågkornsgatan 92, 0709864157
 - Johan Asterholm, vice ordförande, Rågkornsgatan 28
 - Lena Roseke, kassör, Axgatan 17
