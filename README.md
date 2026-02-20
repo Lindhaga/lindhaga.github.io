@@ -6,7 +6,7 @@ Om du är nyinflyttad så läs gärna igenom denna sida och kontakta styrelsen, 
 
 ## Senaste nytt
 
-2025 års ordinarie föreningsstämma inträffar 24:e februari. Vi ses på samma plats som vi varit de senaste åren: Fässbergs församlingshem.
+2026 års ordinarie föreningsstämma inträffar 26:e februari. Vi ses i Kulturhuset Möllan. Registrering från 18:30.
 
 ## Om föreningen
 De 174 fastigheterna i vårt område ingår i en samfällighet och har en andel i den gemensamma egendomen. Ägarna av fastigheterna är medlemmar i Lindhaga Samfällighetsförening och medlemskapet är därför obligatoriskt. Egendomen (gemensamhetsanläggningarna) består av 
