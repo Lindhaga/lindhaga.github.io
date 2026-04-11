@@ -166,13 +166,13 @@ Du kan lämna förslag till förbättringar och förändringar av samfällighete
 Diverse ritningar finns tillgängliga på [OneDrive](https://1drv.ms/f/c/3a4439045a982ff0/EvAvmFoEOUQggDoBBAAAAAABGpi8kfDSArP0-WVx2w3E8Q?e=H1nHVe).
 
 ## Styrelsen
-Sedan stämman i februari 2025 består styrelsen av:
+Sedan stämman i februari 2026 består styrelsen av:
 - Mattias Hermansson, ordförande, Rågkornsgatan 92, 0709864157
 - Johan Asterholm, vice ordförande, Rågkornsgatan 28
-- Lena Roseke, kassör, Axgatan 17
+- Meri Habo, kassör, Axgatan 17
 - Pia Andersson, Rågkornsgatan 136
+- Johannes Bengtner, Rågkornsgatan 182
 - Mariana Ferri, Rågkornsgatan 96
-- Meri Habo, Axgatan 103
 - Gunnar Kristensen, Rågkornsgatan 134
 
 ## Kontakt
