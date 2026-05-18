@@ -31,8 +31,16 @@ Om man kopplat på portmotorn och porten ändå inte går ned så kan ändläget
 Som nämnts så skiljer alltså låsmekaniken avsevärt mellan garage med och utan portmotor. Garage med portmotor har en pigg som är monterad åt "fel" håll och som alltså inte kan låsa. På ett garage utan portmotor är piggen monterad mot skåran och man låser och låser upp med nyckel. Om du köpt ett garage som inte går att låsa och det inte finns någon portmotor, kan alltså den pigg indikera om det tidigare funnits en portmotor.
 
 ![Utsidan av porten med lås](https://1drv.ms/i/c/3a4439045a982ff0/IQAp_tTfWziARoWYSg26RheDAfqUFfqmOdhkFA5CmCenbt8?e=AhHySf)
+
+
 ![Portmotor](https://1drv.ms/i/c/3a4439045a982ff0/IQC3YoL4wZdRTaWIg3ZMwLZ7AfKPRN5jNyohS61Fc_6_vG4?e=EZUV2e)
+
+
 ![Grön knapp och röd plastbit](https://1drv.ms/i/c/3a4439045a982ff0/IQCgkDFPUpF3T458YT3T2D46AacjeFw4hn_egzV4HLizOOI?e=tNvyGI)
+
+
 ![Pigg](https://1drv.ms/i/c/3a4439045a982ff0/IQCbKTelmRZ9ToRgzjbqfC6CAd92RlhmV9vz9TQ34zdQpbs?e=IjNmRB)
+
+
 ![Vred](https://1drv.ms/i/c/3a4439045a982ff0/IQAShuWFv-j8TKCuQP2bS6SoASQbskbZcoRX2R-k25Z13f8?e=eU1dRB)
 
